@@ -1,0 +1,30 @@
+Configuration Type,Component,Specification
+Hardware,Processor (CPU),Apple M2
+Hardware,Architecture,arm64
+Hardware,Physical Cores,8 cores
+Hardware,Logical Cores,8 cores
+Hardware,CPU Frequency,3.5 GHz
+Hardware,Graphics (GPU),Apple M2
+Hardware,Total RAM,16.0 GB
+Hardware,Available RAM,3.25 GB
+Hardware,Memory Type,DDR5
+Hardware,Storage Total,460.43 GB
+Hardware,Storage Available,147.58 GB
+Hardware,Storage Type,SSD
+Hardware,Network Interfaces,"en0, awdl0, llw0"
+Software,Operating System,Darwin 23.5.0
+Software,OS Platform,macOS-14.5-arm64-arm-64bit
+Software,Python Version,3.11.9
+Software,Charm-Crypto,Not installed
+Software,Cryptography,44.0.1
+Software,PyCryptodome,3.21.0
+Software,Web3.py,Not installed
+Software,IPFS HTTP Client,Not installed
+Software,NumPy,1.26.4
+Software,Pandas,1.5.3
+Blockchain/IPFS,IPFS,Not installed
+Blockchain/IPFS,Ganache CLI,Ganache CLI v6.12.2 (ganache-core: 2.13.2)
+Blockchain/IPFS,Truffle,5.11.5)
+Blockchain/IPFS,Go Ethereum,Not installed
+
+Metadata,Collection Time,2025-06-24 10:04:07

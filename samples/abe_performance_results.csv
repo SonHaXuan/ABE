@@ -1,0 +1,8 @@
+ABE,1KB,10KB,100KB,250KB,500KB,750KB,1MB,5MB,7MB,10MB
+Key Creation Time,82ms,91ms,91ms,91ms,86ms,81ms,85ms,86ms,94ms,91ms
+Data Encryption - Time,35.576ms,35.518ms,34.769ms,35.509ms,35.191ms,35.404ms,35.536ms,35.564ms,36.475ms,35.904ms
+Data Encryption - CPU,73.80%,73.60%,76.40%,73.60%,73.70%,73.60%,73.80%,73.70%,74.40%,74.20%
+Data Encryption - RAM,80KB,0KB,0KB,0KB,64KB,80KB,0KB,16KB,0KB,0KB
+Data Decryption - Time,25.978ms,26.371ms,25.853ms,26.280ms,26.619ms,78.313ms,25.855ms,26.253ms,27.282ms,26.072ms
+Data Decryption - CPU,67.20%,67.50%,67.20%,67.50%,67.80%,32.40%,67.10%,67.60%,68.20%,67.10%
+Data Decryption - RAM,0KB,0KB,0KB,0KB,0KB,32KB,0KB,0KB,0KB,0KB
